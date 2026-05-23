@@ -1,0 +1,12 @@
+{
+  "games": [
+    {
+      "name": "Hill Climb Racing",
+      "script": "https://raw.githubusercontent.com/user/ff.lua"
+    },
+    {
+      "name": "BGMI",
+      "script": "https://raw.githubusercontent.com/user/bgmi.lua"
+    }
+  ]
+}
